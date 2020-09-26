@@ -1,5 +1,5 @@
-# React Native: Async Storage
+# React Native: React Navigation
 
-## udemy
+introduction to Stack navigation to move through screens
 
 https://www.udemy.com/course/react-native-crea-aplicaciones-para-android-y-ios-con-react/
